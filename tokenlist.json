@@ -1,6 +1,6 @@
 {
   "name": "BOOP Token List",
-  "logoURI": "https://github.com/michaelkernaghan/ERC-20-Token-Lists/blob/main/boop-token-image.png",
+  "logoURI": "ipfs://QmSv4toVmQEws5S3NCtGx55Vxv9GAhGMqW4P6QuL2eYMk6",
   "keywords": [
     "audited",
     "verified",
@@ -24,15 +24,15 @@
       "symbol": "BOOP",
       "name": "BOOP Coin",
       "decimals": 18,
-      "logoURI": "https://github.com/michaelkernaghan/ERC-20-Token-Lists/blob/main/boop-token-image.png",
+      "logoURI": "ipfs://QmSv4toVmQEws5S3NCtGx55Vxv9GAhGMqW4P6QuL2eYMk6",
       "tags": [
-        "happy"
+        "stablecoin"
       ]
     }
   ],  
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
