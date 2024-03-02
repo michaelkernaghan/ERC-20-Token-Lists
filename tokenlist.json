@@ -1,15 +1,15 @@
 {
-  "name": "My Token List",
-  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "name": "BOOP Token List",
+  "logoURI": "https://github.com/michaelkernaghan/ERC-20-Token-Lists/blob/main/boop-token-image.png",
   "keywords": [
     "audited",
     "verified",
     "special tokens"
   ],
   "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    "happy": {
+      "name": "Happy",
+      "description": "Boops make you happy"
     },
     "compound": {
       "name": "Compound Finance",
@@ -22,17 +22,17 @@
       "chainId": 128123,
       "address": "0xD4d26c5e437173796B3ff41Fc5a75Ab96eB604eA",
       "symbol": "BOOP",
-      "name": "BOOPS Coin",
+      "name": "BOOP Coin",
       "decimals": 18,
-      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "logoURI": "https://github.com/michaelkernaghan/ERC-20-Token-Lists/blob/main/boop-token-image.png",
       "tags": [
-        "stablecoin"
+        "happy"
       ]
     }
   ],  
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
