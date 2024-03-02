@@ -1,6 +1,6 @@
 {
   "name": "BOOP Token List",
-  "logoURI": "ipfs://QmSv4toVmQEws5S3NCtGx55Vxv9GAhGMqW4P6QuL2eYMk6",
+  "logoURI": "ipfs://QmZCejxUjUksy5X5QTkjNCdPzVKNxZMXf1pau9ceNbKHmq",
   "keywords": [
     "audited",
     "verified",
@@ -24,7 +24,7 @@
       "symbol": "BOOP",
       "name": "BOOP Coin",
       "decimals": 18,
-      "logoURI": "ipfs://QmSv4toVmQEws5S3NCtGx55Vxv9GAhGMqW4P6QuL2eYMk6",
+      "logoURI": "ipfs://QmZCejxUjUksy5X5QTkjNCdPzVKNxZMXf1pau9ceNbKHmq",
       "tags": [
         "stablecoin"
       ]
@@ -32,7 +32,7 @@
   ],  
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
