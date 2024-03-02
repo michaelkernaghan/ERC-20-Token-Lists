@@ -1,0 +1,38 @@
+{
+  "name": "My Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "compound": {
+      "name": "Compound Finance",
+      "description": "Tokens that earn interest on compound.finance"
+    }
+  },
+  "timestamp": "2024-03-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 128123,
+      "address": "0xD4d26c5e437173796B3ff41Fc5a75Ab96eB604eA",
+      "symbol": "BOOP",
+      "name": "BOOPS Coin",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],  
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
