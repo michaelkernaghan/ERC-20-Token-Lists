@@ -28,7 +28,7 @@
     {
       "chainId": 128123,
       "address": "0xCB2aB1E44daDC889a91184527beC6820Bc2BF210",
-      "symbol": "TQ",
+      "symbol": "TQ2",
       "name": "TORQUE",
       "decimals": 18,
       "logoURI": "ipfs://Qmd8T8p1ZdUDQD5MwUmUYUZWkmAsuALw8VkmCoi1DTpY9L",
@@ -38,8 +38,8 @@
     }
   ],  
   "version": {
-    "major": 2,
-    "minor": 2,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   }
 }
