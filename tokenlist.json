@@ -1,5 +1,5 @@
 {
-  "name": "BOOP Token List",
+  "name": "Happy Token List",
   "logoURI": "ipfs://QmRB6Krif5q8eKszNhe3diBahXrisjQcGw6WJEJeh4K4bT",
   "keywords": [
     "audited",
@@ -9,11 +9,7 @@
   "tags": {
     "happy": {
       "name": "Happy",
-      "description": "Boops make you happy"
-    },
-    "compound": {
-      "name": "Compound Finance",
-      "description": "Tokens that earn interest on compound.finance"
+      "description": "Tokens make you happy"
     }
   },
   "timestamp": "2024-03-02T00:00:00+00:00",
@@ -28,11 +24,22 @@
       "tags": [
         "stablecoin"
       ]
+    },
+    {
+      "chainId": 128123,
+      "address": "0xde6c8Dedb4868202FE5FaFa4A94F89f8c7a24D51",
+      "symbol": "TQ",
+      "name": "TORQUE",
+      "decimals": 18,
+      "logoURI": "ipfs://Qmd8T8p1ZdUDQD5MwUmUYUZWkmAsuALw8VkmCoi1DTpY9L",
+      "tags": [
+        "happy"
+      ]
     }
   ],  
   "version": {
-    "major": 1,
-    "minor": 4,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }
