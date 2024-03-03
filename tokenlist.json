@@ -22,7 +22,7 @@
       "decimals": 18,
       "logoURI": "ipfs://QmRB6Krif5q8eKszNhe3diBahXrisjQcGw6WJEJeh4K4bT",
       "tags": [
-        "stablecoin"
+        "happy"
       ]
     },
     {
@@ -39,7 +39,7 @@
   ],  
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
